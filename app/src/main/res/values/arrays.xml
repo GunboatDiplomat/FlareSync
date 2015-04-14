@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_syncPeriod_entries">
+        <item>2s</item>
+        <item>5s</item>
+        <item>10s</item>
+        <item>1min</item>
+        <item>30min</item>
+    </string-array>
+
+    <string-array name="pref_syncPeriod_values">
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>60000</item>
+        <item>180000</item>
+    </string-array>
+</resources>

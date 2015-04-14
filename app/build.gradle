@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "hr.fesb.flaresync"
-        minSdkVersion 15
+        minSdkVersion 21
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
@@ -32,4 +32,7 @@ dependencies {
 
 dependencies {
     compile 'com.firebase:firebase-client-android:2.2.1+'
+}
+dependencies {
+    compile 'com.android.support:recyclerview-v7:+'
 }

@@ -1,11 +1,16 @@
 <resources>
     <string name="app_name">FlareSync</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_settings">Settings</string>
 
     <string name="action_settings">Settings</string>
     <string name="action_logout">Logout</string>
+    <string name="action_sync">TEST</string>
+    <string name="action_backup">Backup now</string>
+    <string name="action_refresh">Refresh view</string>
+
+    <string name="pref_syncPeriod">Synchronization Frequency</string>
 
     <string name="login_with_google">Login with Google+</string>
     <string name="firebase_url">https://vivid-heat-1679.firebaseio.com</string>
-    <string name="title_activity_firebase_communication">FirebaseCommunication</string>
-    <string name="hello_world">Hello world!</string>
 </resources>
